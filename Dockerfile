@@ -2,5 +2,5 @@
 From tomcat:8-jre8 
 
 # Maintainer 
-MAINTAINER "bharath" 
+MAINTAINER "vishweswaranp" 
 COPY ./cicd-for-webapp.war /usr/local/tomcat/webapps
